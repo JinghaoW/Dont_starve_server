@@ -5,3 +5,5 @@ dst_tool/
 ├── launcher.py    # 服务器启动
 ├── gui.py         # 图形界面
 └── main.py        # 程序入口
+
+https://github.com/JinghaoW/Dont_starve_server/archive/refs/tags/v1.zip
